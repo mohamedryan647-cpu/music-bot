@@ -1,0 +1,5 @@
+pyrogram
+tgcalls
+pytgcalls
+yt-dlp
+aiohttp
